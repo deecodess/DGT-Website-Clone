@@ -1,0 +1,145 @@
+#navbar{
+    background-color: #ffffff;
+    color: #000 !important;
+
+}
+#logo{
+    padding-left: 1%;
+}
+#firstline{
+    font-family: 'Passion One', cursive;
+    font-weight: Regular;
+    font-size: 50px;
+    padding-left:10%; 
+}
+#firstpara{
+    font-family:'Arimo', sans-serif;
+    font-weight: Regular;
+    font-size: 20px;
+    padding-left:10%;
+}
+#btolink{
+    font-family:'Arimo', sans-serif;
+    font-weight: Light;
+    color:#000;
+    font-size: 15px;
+    padding-left:10% !important;
+    border: 1px solid black;
+    border-spacing: 5px; 
+    padding:10px;
+}
+#ladder1{
+    width:600px;
+}
+#ladder2{
+    padding-top:5%;
+    width:600px;
+}
+#chessclocks{
+    width:600px;
+}
+
+#midpart{
+    padding-top:10%;
+    background-color: #f0f0f0;
+    color: #000;
+}
+#secondtext{
+    text-align: center;
+    font-family: 'Passion One', cursive;
+    font-weight: Regular;
+    font-size: 50px;
+}
+#secondpara{
+    text-align: center;
+    font-family:'Arimo', sans-serif;
+    font-weight: Regular;
+    font-size: 20px;
+}
+#clockspart{
+    padding-top:7%;
+    
+}
+#firstclock{
+    margin-left:-23px  !important;
+    margin-right:3px;
+}
+#fourthclock{
+    margin-left:-23px  !important;
+    margin-right:3px;
+}
+#seventhclock{
+    margin-left:-23px  !important;
+    margin-right:3px;
+}
+#tenthclock{
+    margin-left:-23px  !important;
+    margin-right:3px;
+}
+#thirteenthclock{
+    margin-left:-23px  !important;
+    margin-right:3px;
+}
+#sixteenthclock{
+    margin-left:-23px  !important;
+    margin-right:3px;
+}
+#nineteenthclock{
+    margin-left:-23px  !important;
+    margin-right:3px;
+}
+
+#footervalapart{
+    padding-top:12%;
+    padding-bottom:12%;
+    background-color: #222222;
+    color: #fff;
+    text-align: center;
+}
+h2{
+    font-family: 'Passion One', cursive;
+    font-weight: Regular;
+    font-size: 40px;
+    padding-bottom:-5px;
+}
+h5{
+    font-family:'Arimo', sans-serif;
+    font-weight: Regular;
+    font-size: 15px;
+    padding-top:2px;
+}
+h6{
+    padding:0px;
+    margin:0px;
+    color:red;
+}
+h3{
+    font-family:'Ubuntu';
+    font-weight: Bold;
+    font-size: 18px !important;
+    color: #222222;
+    padding-top:5px;
+    
+    
+}
+p{
+    font-family:'Arimo', sans-serif;
+    font-weight: Regular;
+    font-size: 15px;
+    padding-bottom:30 px;
+}
+footer{
+    background-color: #222222;
+    color: #fff;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+
+
+
+
+
+
+
